@@ -46,7 +46,7 @@ export default function Home() {
             <header className="home-header">
                 <h1>React Components Lab</h1>
                 <p className="home-subtitle">
-                    Master React fundamentals through hands-on exercises
+                    Asylbek Zhunusov
                 </p>
             </header>
 
